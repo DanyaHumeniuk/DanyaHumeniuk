@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DanyaHumeniuk
+# 👋 Hi, I’m Danylo Humeniuk
 
 - 👀 I’m interested in **frontend development, UI/UX design, and the intersection of psychology & technology.**
 - 🌱 I’m currently learning **React, Tailwind CSS, and exploring human-computer interaction (HCI).**
