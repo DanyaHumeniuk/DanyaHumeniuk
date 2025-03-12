@@ -21,7 +21,7 @@ DanyaHumeniuk/DanyaHumeniuk is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I've worked with:</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
