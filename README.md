@@ -1,13 +1,17 @@
-# 👋 Hi, I’m Danylo Humeniuk
+# ⚡ Hi, I’m Danylo Humeniuk
 
-- 👀 I’m interested in **frontend development, UI/UX design, and the intersection of psychology & technology.**
-- 🌱 I’m currently learning **React, Tailwind CSS, and exploring human-computer interaction (HCI).**
-- 💞️ I’m looking to collaborate on **web projects, frontend development, and user-centered design applications.**
-- 📫 How to reach me: **dgumenuk076@gmail.com | [LinkedIn](https://www.linkedin.com/in/danylo-humeniuk-aba4a8257/)**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I used to draw a lot of portraits.**
+I'm passionate about frontend development and crafting engaging user experiences that seamlessly blend aesthetics and functionality. With a keen interest in UI/UX design and the intersection of psychology and technology, I love exploring how design choices impact user behavior. I'm currently diving into React, Tailwind CSS, and human-computer interaction (HCI) to build intuitive and accessible web applications. Always excited to collaborate on web projects, frontend development, and user-centered design applications.
 
 ---
+How to reach me: 
+<p align="left">
+  <a href="mailto:dgumenuk076@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/danylo-humeniuk-aba4a8257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 🌟 Feel free to check out my projects and connect with me!
 
@@ -16,7 +20,7 @@
 DanyaHumeniuk/DanyaHumeniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
