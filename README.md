@@ -15,6 +15,11 @@ How to reach me:
 
 🌟 Feel free to check out my projects and connect with me!
 
+<p align="left">
+  <a href="https://danylohumeniukportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <!---
 DanyaHumeniuk/DanyaHumeniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
