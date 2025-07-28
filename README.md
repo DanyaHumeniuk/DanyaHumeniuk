@@ -1,6 +1,6 @@
 # ⚡ Hi, I’m Danylo Humeniuk
 
-I'm passionate about frontend development and crafting engaging user experiences that seamlessly blend aesthetics and functionality. With a keen interest in UI/UX design and the intersection of psychology and technology, I love exploring how design choices impact user behavior. I'm currently diving into React, Tailwind CSS, and human-computer interaction (HCI) to build intuitive and accessible web applications. Always excited to collaborate on web projects, frontend development, and user-centered design applications.
+I'm passionate about web development and crafting engaging user experiences that seamlessly blend aesthetics and functionality. With a keen interest in UI/UX design and the intersection of psychology and technology, I love exploring how design choices impact user behavior. I'm currently diving into React, Tailwind CSS, and human-computer interaction (HCI) to build intuitive and accessible web applications. Always excited to collaborate on web projects, fullstack development, and user-centered design applications.
 
 ---
 How to reach me: 
